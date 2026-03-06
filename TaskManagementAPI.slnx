@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../TaskManagerUI/taskmanagerui.client/taskmanagerui.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="../TaskManagerUI/TaskManagerUI.Server/TaskManagerUI.Server.csproj" Id="6a05159c-2448-433e-a374-5d92be7644e5" />
+  <Project Path="TaskManagementAPI.csproj" />
+</Solution>
