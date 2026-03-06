@@ -1,3 +1,15 @@
+<img width="1045" height="706" alt="Screenshot 2026-03-06 132726" src="https://github.com/user-attachments/assets/effc9c74-d5da-4068-88c1-23f32f7f99ff" />
+<img width="890" height="687" alt="Screenshot 2026-03-06 132856" src="https://github.com/user-attachments/assets/4b8b01cf-cc43-4e34-987f-9280b9857680" />
+<img width="1333" height="717" alt="Screenshot 2026-03-06 132915" src="https://github.com/user-attachments/assets/27b951c6-ba80-4f08-bf5e-c8131634241e" />
+<img width="835" height="866" alt="Screenshot 2026-03-06 132927" src="https://github.com/user-attachments/assets/ac942af0-e1c3-4412-b6f1-811ac77c7b48" />
+<img width="775" height="811" alt="Screenshot 2026-03-06 133014" src="https://github.com/user-attachments/assets/73a340d8-8d08-47aa-9c8e-d537ab4e3ea1" />
+<img width="611" height="823" alt="Screenshot 2026-03-06 133026" src="https://github.com/user-attachments/assets/6ec48166-0132-4622-b451-4b757d29ef3a" />
+<img width="633" height="880" alt="Screenshot 2026-03-06 133034" src="https://github.com/user-attachments/assets/032ea955-b040-428e-9157-4d161e3012b9" />
+<img width="728" height="846" alt="Screenshot 2026-03-06 133048" src="https://github.com/user-attachments/assets/bac5f4a1-63f0-4c23-af0b-bf8aab57a7fb" />
+<img width="1866" height="969" alt="Screenshot 2026-03-06 133111" src="https://github.com/user-attachments/assets/48462ba2-d2e2-4dd3-8af0-dc1079dfd836" />
+<img width="1917" height="930" alt="Screenshot 2026-03-06 133158" src="https://github.com/user-attachments/assets/aaaca0cf-a7f8-40a5-88f1-0f3d89a10e57" />
+<img width="1896" height="958" alt="Screenshot 2026-03-06 133210" src="https://github.com/user-attachments/assets/25fc5290-d77d-4351-9bdd-8befc6aa9f6b" />
+
 # TaskManagementAPI
 Task Manager Application
 
